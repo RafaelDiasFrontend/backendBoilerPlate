@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelDiasFrontend/backendBoilerPlate.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Rafael Dias Fonseca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelDiasFrontend/backendBoilerPlate/issues"
+  },
+  "homepage": "https://github.com/RafaelDiasFrontend/backendBoilerPlate#readme",
+  "devDependencies": {
+    "@types/node": "^20.5.7",
+    "typescript": "^5.2.2"
+  }
+}
