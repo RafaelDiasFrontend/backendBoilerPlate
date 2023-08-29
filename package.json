@@ -21,6 +21,7 @@
   "homepage": "https://github.com/RafaelDiasFrontend/backendBoilerPlate#readme",
   "devDependencies": {
     "@types/node": "^20.5.7",
-    "typescript": "^5.2.2"
+    "typescript": "^5.2.2",
+    "vitest": "^0.34.3"
   }
 }
