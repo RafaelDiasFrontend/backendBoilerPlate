@@ -4,7 +4,7 @@ import { Answer } from '../../enterprise/entities/answer'
 
 const fakeAnswersRepository: AnswersRepository = {
   create: async (answer: Answer) => {
-    console.log(answer)
+    console.log('resposta:', answer)
   },
 }
 
